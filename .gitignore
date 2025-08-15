@@ -1,3 +1,5 @@
 *.pdf
 *.csv
 SubDB.sql
+.gitignore
+*.DS_Store
